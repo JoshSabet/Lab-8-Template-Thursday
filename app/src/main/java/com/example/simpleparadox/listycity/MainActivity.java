@@ -7,6 +7,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 
+import com.example.simpleparadox.listycity.R;
+
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
